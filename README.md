@@ -1,5 +1,5 @@
 # bigcat
-the node.js router manager
+the node.js router manager.
 
 # goals
 
